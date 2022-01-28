@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.con-container {
+  background-color: #475569;
+  padding-left: 30px;
+  padding: 10px;
+}
+.con-head {
+  color: #f1f5f9;
+  font-family: 'roboto';
+}
+.input-container {
+  margin: 4px;
+}
+.label {
+  color: #f1f5f9;
+  font-family: 'roboto';
+}
